@@ -1,0 +1,72 @@
+body{
+  font-family: sans-serif;
+  /* background-image: url("niconico_bg_blue.png"); */
+  background-repeat: no-repeat;
+  background-repeat: repeat-y;
+  background-position: 50% 0;
+  background-size: 100px 100px;
+  /* background: linear-gradient(-135deg, #E4A972, #9941D8); */
+
+}
+
+
+
+.logo{
+  background-image: linear-gradient( 135deg, #81FBB8 10%, #28C76F 100%);
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.topsentense{
+  text-align: center;
+  margin: auto;
+  padding: 0 20px;
+  font-size: large;
+  line-height: 2;
+}
+
+.Initial{
+  margin: auto;
+  padding: 0 20px;
+  line-height: 2;
+  border-top: dotted;
+
+}
+
+.group{
+  padding: 30px;
+  margin: 30px;
+  display: inline-block;
+  border: solid;
+}
+
+
+
+/* 行ごとに色を変えたいときは、
+
+initial → initial3とかに変えて
+
+指定すれば行けそう */
+
+
+
+
+
+
+
+
+
+/* footer */
+footer{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  text-align: center;
+  background-image: linear-gradient( 135deg, #81FBB8 10%, #28C76F 100%);
+  line-height: 2;
+}
+
+.my-skyblue{
+  color: blue;
+}
